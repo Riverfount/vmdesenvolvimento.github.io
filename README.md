@@ -1,4 +1,4 @@
-# Sitda da VM Desenvolvimento & Design
+# Site da VM Desenvolvimento & Design
 
 Implementado com o template [Creative Theme](http://startbootstrap.com/template-overviews/creative/) da [Start 
 Bootstrap](http://startbootstrap.com).
